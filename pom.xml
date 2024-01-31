@@ -26,7 +26,7 @@
     <dependency>
       <groupId>com.cloudbees</groupId>
       <artifactId>groovy-cps</artifactId>
-      <version>1.11</version>
+      <version>1.19</version>
     </dependency>
 
     <dependency>
